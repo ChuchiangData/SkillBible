@@ -1,2 +1,2 @@
 # SkillBible
-绝佳skills的“永乐大典”
+“永乐大典”
