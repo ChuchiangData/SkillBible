@@ -56,6 +56,24 @@
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | MIT | MCP 官方参考实现 |
 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | 未指定 | MCP 服务器社区列表 |
 
+## 领域技能来源 (新增)
+
+| 来源 | 许可证 | 用途 |
+|------|--------|------|
+| [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | MIT | 160+ 营销 SEO 技能 |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | MIT | 38 CRO/SEO/广告技能 |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | MIT | 136+ 科学研究技能 (16 子领域) |
+| [GarethManning/claude-education-skills](https://github.com/GarethManning/claude-education-skills) | 待确认 | 108 循证教学法技能 |
+| [lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills) | CC BY-NC-ND 4.0 | 42+ 法律合规技能 |
+| [skala-io/legal-skills](https://github.com/skala-io/legal-skills) | Apache 2.0 | 创业法律技能 |
+| [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | CC BY-NC-SA 4.0 | 47 产品管理技能 |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 待确认 | 100+ PM 技能 |
+| [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) | MIT | 87 AI/ML 研究技能 |
+| [gtmagents/gtm-agents](https://github.com/gtmagents/gtm-agents) | Apache 2.0 | 92+ 销售 GTM agents |
+| [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) | 待确认 | 10 机器人/ROS 技能 |
+| [fugazi/test-automation-skills-agents](https://github.com/fugazi/test-automation-skills-agents) | 待确认 | 19 QA 测试技能 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | MIT | 150+ 跨领域 Agent |
+
 ## IDE 配置来源
 
 | 来源 | 许可证 | 用途 |
