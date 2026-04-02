@@ -1,11 +1,18 @@
-# SkillBible 「永乐大典」
+<p align="center">
+  <img src="assets/banner.png" alt="Skill Bible" width="600">
+</p>
 
-> **The Ultimate Collection of AI Agent Skills, System Prompts & Tools**
->
-> 汇聚全网公开的 AI Agent 技能、系统提示、工具定义和框架资源。按类别/领域分类，方便检索和复用。
+<h1 align="center">SkillBible 「永乐大典」</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/ChuchiangData/SkillBible?style=social)](https://github.com/ChuchiangData/SkillBible)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <strong>The Ultimate Collection of AI Agent Skills, System Prompts & Tools</strong><br>
+  汇聚全网公开的 AI Agent 技能、系统提示、工具定义和框架资源。按类别/领域分类，方便检索和复用。
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChuchiangData/SkillBible"><img src="https://img.shields.io/github/stars/ChuchiangData/SkillBible?style=social" alt="GitHub stars"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
 
 ---
 
