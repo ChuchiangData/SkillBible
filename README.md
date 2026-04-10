@@ -6,10 +6,17 @@
 
 <p align="center">
   <strong>🚀 The Ultimate Collection of AI Agent Skills, System Prompts & Tools</strong><br>
-  汇聚全网公开的 AI Agent 技能、系统提示、工具定义和框架资源。按类别/领域分类，方便检索和复用。
-  <h5>本项目由上海珠江数据支持并发布。珠江数据是全球顶尖的拟真数据供应商，我们创造最优质的拟真数据及其解决方案，降低训练和数据获取的成本，支持客户项目长期稳定的技术部署和发展。
-    <h5>欢迎访问珠江数据官网https://chuchiangdata.cc</h5>
-  </h5>
+  汇聚全网公开的 AI Agent 技能、系统提示、工具定义和框架资源。按类别/领域分类，方便检索和复用。<br>
+  
+<sub>
+Supported and published by <strong>Shanghai Chuchiang Data</strong>. Chuchiang Data is a world-leading provider of synthetic data, delivering high-quality synthetic data and tailored solutions to reduce the cost of training and data acquisition, while supporting long-term, stable technical deployment and growth for client projects.
+<br><br>
+本项目由<strong>上海珠江数据（Chuchiang Data）</strong>支持并发布。珠江数据是全球顶尖的拟真数据供应商，我们创造最优质的拟真数据及其解决方案，降低训练和数据获取的成本，支持客户项目长期稳定的技术部署和发展。
+<br><br>
+欢迎访问珠江数据官网：<a href="https://chuchiangdata.cc">chuchiangdata.cc</a>
+</sub>
+  
+
 </p>
 
 <p align="center">
