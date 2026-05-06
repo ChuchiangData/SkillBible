@@ -295,3 +295,11 @@ description: When and how to trigger this skill
 ```
 
 The `name` field becomes the `/slash-command`, and the `description` helps the AI decide when to load the skill automatically.
+
+---
+
+## May 2026: Trending Community Skills
+
+> See: [trending-community-skills-2026.md](trending-community-skills-2026.md)
+
+10 new trending skills discovered May 2026, including caveman (54K⭐ token compression), graphify (43K⭐ code knowledge graphs), career-ops (42K⭐ job search), open-design (27K⭐ open Claude Design), and more.
